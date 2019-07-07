@@ -1,0 +1,16 @@
+.calculator {
+    width: 280px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+#display {
+    margin: 10px;
+    max-height: 3em;
+    min-width: 18em;
+    text-align: right;
+    font-family: monospace;
+    overflow: hidden;
+}
+
+

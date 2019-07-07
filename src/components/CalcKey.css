@@ -1,0 +1,7 @@
+button:hover {
+    background-color: blue;
+}
+
+#calcKey:active {
+    background-color: blue;
+}
